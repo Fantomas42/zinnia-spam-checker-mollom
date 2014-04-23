@@ -4,7 +4,7 @@ from setuptools import find_packages
 
 setup(
     name='zinnia-spam-checker-mollom',
-    version='1.0.dev',
+    version='1.0',
 
     description='Anti-spam protections for django-blog-zinnia with Mollom',
     long_description=open('README.rst').read(),
