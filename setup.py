@@ -3,7 +3,7 @@ from setuptools import setup
 from setuptools import find_packages
 
 setup(
-    name='zinnia-spam-checker-akismet',
+    name='zinnia-spam-checker-mollom',
     version='1.0.dev',
 
     description='Anti-spam protections for django-blog-zinnia with Mollom',
