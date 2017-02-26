@@ -1,7 +1,7 @@
 """Mollom spam checker backend for Zinnia"""
 from django.conf import settings
-from django.utils.encoding import smart_str
 from django.core.exceptions import ImproperlyConfigured
+from django.utils.encoding import smart_str
 
 try:
     from Mollom import MollomAPI
